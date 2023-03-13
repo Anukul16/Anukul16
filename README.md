@@ -8,11 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anukul16&label=Profile%20views&color=0e75b6&style=flat" alt="anukul16" /> </p>
 
-- 🌱 I’m currently learning **some popular frameworks for developement as well as algorithms those are not know to me**
+- 🌱 I’m currently learning **new algorithms those are not known to me**
 
 - 💬 Ask me about **DSA,CP, Web Development**
 
-- 📫 How to reach me **anukulmaity18@gmail.com**
+- 📫 How to reach me ?? **anukulmaity18@gmail.com**
 
 - ⚡ Fun fact **is that you are currently on my profile**
 
